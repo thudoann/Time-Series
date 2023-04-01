@@ -1,3 +1,3 @@
-# Time-Series
+# Time Series
 
 Discovered the models most commonly used to analyse time series, such as the Auto-Regressive and the Moving Average models, as well as their upgrades (ARMA, ARIMA, SARIMA). We also covered models commonly used in the data science Industry like Prophet, from Facebook, or DART, the Python library. We then covered various approaches of Fourier transform, whose function is to decompose a signal into simple signals of different frequencies. The last part is dedicated to pattern mining and time series. More specifically, we dwelled on shapelet mining (motif discovery) and discord detection.
